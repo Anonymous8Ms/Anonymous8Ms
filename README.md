@@ -18,7 +18,7 @@ Mastering Cyber security along with College studies
 - Real-time mod queue prioritization system for Reddit moderators
 - Built with 2-person team at Reddit Mod Tools Hackathon
 - Published: [developers.reddit.com/apps/modqueue-hub-1](https://developers.reddit.com/apps/modqueue-hub-1)
-- Tech: TypeScript, Redis, React
+- Tech: TypeScript, Redis, React.
 
 **SQL Query Evaluator (RL Environment)**
 - Meta PyTorch OpenEnv Hackathon (Team Lead)
