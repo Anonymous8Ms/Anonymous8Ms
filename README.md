@@ -16,7 +16,7 @@ Mastering Cyber security along with College studies
 
 **ModQueue Intelligence Hub** (Reddit Devvit Platform)
 - Real-time mod queue prioritization system for Reddit moderators
-- Built with 2-person team at Reddit Mod Tools Hackathon
+- Built with Solo at Reddit Mod Tools Hackathon
 - Published: [developers.reddit.com/apps/modqueue-hub-1](https://developers.reddit.com/apps/modqueue-hub-1)
 - Tech: TypeScript, Redis, React.
 
