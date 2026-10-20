@@ -2,8 +2,7 @@
 
 **Cybersecurity Enthusiast 
 
-I'm a Second-year B.Tech student from India, passionate about cybersecurity, vulnerability research, and building security-first applications. I'm on a mission to secure a cybersecurity Job while contributing to the open-source security community.
-
+I'm a Second-year B.Tech student from India, passionate about cybersecurity,Governce-risk and compliance . Learning ISO27001 ,DPDPA act 
 ---
 
 ## 🎯 Current Goals
